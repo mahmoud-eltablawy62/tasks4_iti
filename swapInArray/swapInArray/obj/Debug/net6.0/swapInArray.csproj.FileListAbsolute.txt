@@ -1,0 +1,15 @@
+D:\tasks\tasks4_iti\swapInArray\swapInArray\bin\Debug\net6.0\swapInArray.exe
+D:\tasks\tasks4_iti\swapInArray\swapInArray\bin\Debug\net6.0\swapInArray.deps.json
+D:\tasks\tasks4_iti\swapInArray\swapInArray\bin\Debug\net6.0\swapInArray.runtimeconfig.json
+D:\tasks\tasks4_iti\swapInArray\swapInArray\bin\Debug\net6.0\swapInArray.dll
+D:\tasks\tasks4_iti\swapInArray\swapInArray\bin\Debug\net6.0\swapInArray.pdb
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.csproj.AssemblyReference.cache
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.AssemblyInfoInputs.cache
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.AssemblyInfo.cs
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.csproj.CoreCompileInputs.cache
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.dll
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\refint\swapInArray.dll
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.pdb
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\swapInArray.genruntimeconfig.cache
+D:\tasks\tasks4_iti\swapInArray\swapInArray\obj\Debug\net6.0\ref\swapInArray.dll
