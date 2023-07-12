@@ -24,7 +24,8 @@
         string ssn;
         int age;
         string Address;
-        public void setName(string Name) {
+        public void setName(string Name)
+        {
             name = Name;
         }
         public void setSsn(string Ssn)
@@ -37,13 +38,13 @@
         }
         public void setAddress(string address)
         {
-           Address = address ;
+            Address = address;
         }
         public string getName() { return name; }
-        public string getSsn() { return ssn;}
-        public int getAge() { return age;}
+        public string getSsn() { return ssn; }
+        public int getAge() { return age; }
         public string getAddress() { return Address; }
 
-        
+
     }
 }
