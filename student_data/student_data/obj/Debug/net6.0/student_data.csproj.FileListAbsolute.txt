@@ -1,0 +1,15 @@
+D:\tasks\tasks4_iti\student_data\student_data\bin\Debug\net6.0\student_data.exe
+D:\tasks\tasks4_iti\student_data\student_data\bin\Debug\net6.0\student_data.deps.json
+D:\tasks\tasks4_iti\student_data\student_data\bin\Debug\net6.0\student_data.runtimeconfig.json
+D:\tasks\tasks4_iti\student_data\student_data\bin\Debug\net6.0\student_data.dll
+D:\tasks\tasks4_iti\student_data\student_data\bin\Debug\net6.0\student_data.pdb
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.csproj.AssemblyReference.cache
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.AssemblyInfoInputs.cache
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.AssemblyInfo.cs
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.csproj.CoreCompileInputs.cache
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.dll
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\refint\student_data.dll
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.pdb
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\student_data.genruntimeconfig.cache
+D:\tasks\tasks4_iti\student_data\student_data\obj\Debug\net6.0\ref\student_data.dll
